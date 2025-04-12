@@ -1,4 +1,4 @@
-Implementing Apache Flink from Scratch as an exercise for understanding the system
+Implementing Apache Flink from Scratch.
 
 Flink Architecture:
 https://nightlies.apache.org/flink/flink-docs-release-2.0/docs/concepts/flink-architecture/
@@ -8,6 +8,4 @@ https://nightlies.apache.org/flink/flink-docs-release-2.0/docs/concepts/stateful
 
 Timely Stream Processing: 
 https://nightlies.apache.org/flink/flink-docs-release-2.0/docs/concepts/time/
-
-
 
